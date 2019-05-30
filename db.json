@@ -1,62 +1,14 @@
 [
   {
     "id": 1,
-    "title": "COOLPIX B500 Digital" ,
-    "brand": "Nikon",
-    "price": 3590,
-    "description":
-     " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera1.jpg",
-  
+    "title": "Post 1"
   },
   {
     "id": 2,
-    "title": "HXM 24 Megapixel",
-    "brand": "Pentax",
-    "price": 1400,
-    "description":
-    " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera2.jpg",
- 
+    "title": "Post 2"
   },
   {
     "id": 3,
-    "title": "Cyber-Shot DSCW810",
-    "brand": "Sony",
-    "price": 5055,
-    "description":
-    " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera3.jpg",
-    
-  },
-  {
-    "id": 4,
-    "title": "Hero 5 black",
-    "brand": "Go Pro",
-    "price": 8000,
-    "description":
-    " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera4.jpg",
-    
-  },
-  {
-    "id": 5,
-    "title": "Mirrorless Digital Camera",
-    "brand": "Fujifilm",
-    "price": 2999,
-    "description":
-    " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera5.jpg",
-   
-  },
-  {
-    "id": 6,
-    "title": "Canon Eos 80D",
-    "brand": "Canon",
-    "price": 2300,
-    "description":
-    " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "images/camera6.jpg",
-    
+    "title": "Post 3"
   }
 ]
